@@ -14,7 +14,7 @@ Me chamo Júlia, sou estudante de Análise e Desenvolvimento de Sistemas e tatua
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/majutattoo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maju-chequer/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@zmajuz/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zmajuz)
 
 ## Habilidades em Desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=postman,linux,git,figma,github,html,py,ruby,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,linux,git,figma,github,html,py,vscode&perline=3)](https://skillicons.dev)
 
 ## GitHub Stats
 
